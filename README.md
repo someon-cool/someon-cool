@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm Purvesh Gandhi
 
-<!--
-**someon-cool/someon-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | AI/ML • Computer Vision • Full-Stack
 
-Here are some ideas to get you started:
+I enjoy building practical software and exploring how AI can be turned into
+useful products and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning, building, breaking things, and figuring them out again. 🚀
+
+---
+
+## 🚀 What I'm Building
+
+- 🚇 **Metro Passenger Analytics** — Computer vision based passenger detection, tracking and counting
+- 🏢 **HR & ERP Management System** — Employee management, attendance, payroll and payslips
+- 🤖 **AI Projects** — Exploring Machine Learning, Computer Vision, RAG and Agentic AI
+- 🧭 **Career Compass** — AI-powered career navigation and roadmap platform
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Python
+Machine Learning
+Computer Vision
+Agentic AI
+DSA
+Git & GitHub
+System Design
